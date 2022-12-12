@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digital-card/static/css/main.3798e478.css",
+    "main.js": "/digital-card/static/js/main.c9734f9d.js",
+    "static/media/logo.jpg": "/digital-card/static/media/logo.4263387144696e168002.jpg",
+    "index.html": "/digital-card/index.html",
+    "main.3798e478.css.map": "/digital-card/static/css/main.3798e478.css.map",
+    "main.c9734f9d.js.map": "/digital-card/static/js/main.c9734f9d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3798e478.css",
+    "static/js/main.c9734f9d.js"
+  ]
+}
